@@ -6,7 +6,7 @@ select * from invoice;
 
 select sum(total) as invoice_total , billing_city
 from invoice group by billing_city order by invoice_total desc limit 1;
---ishmam faruki 1
+--ishmam faruki 2
 
 
 
