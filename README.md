@@ -1,4 +1,3 @@
-
 # 🎧 Music Store Sales Analysis (SQL Project)
 
 Welcome to my SQL project where I analyzed a digital music store’s database to uncover key business insights using **advanced SQL queries**. This project simulates working with a real-world business—similar to iTunes—and covers **customer behavior**, **sales performance**, and **music genre trends** using **relational data**.
